@@ -1,1 +1,12 @@
-
+{
+"bug_report": {
+              "assignee": "Back/Front-developer",
+              "project": "Mail UI",
+              "sourceURL": "http://somelink.com",
+              "reproduce steps": "click update button",
+              "actual result": "error message",
+              "expected result": "update mail web-interface",
+              "reported": "tester A",
+              "environment": "Chrome 99.0.428, 1370x764 viewport"
+  }
+}
