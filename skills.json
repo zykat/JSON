@@ -1,0 +1,11 @@
+{
+	"skills": {
+		"api": "postman",
+		"android": "android studio",
+		"ios": "xcode",
+		"http": "devtools",
+		"sniffing": "charles/fiddler"
+	}
+
+
+}
